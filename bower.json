@@ -1,0 +1,26 @@
+{
+  "name": "jquery-i18next-plugin-for-synnex",
+  "description": "a jquery-i18next-plugin distribution for Synnex Technology International Corporation.",
+  "main": "i18next.amd.withJQuery-1.8.0.js",
+  "moduleType": ['amd'],
+  "keywords": [
+    "jquery",
+    "i18next",
+    "Synnex",
+    "jquery-plugin"
+  ],
+  "authors": [
+    "martinli"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  dependencies: {
+	"jquery":">=1.9.1"
+  }
+}
